@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945073750551",
+    "firebase_url": "https://vcletlrechargevoucher.firebaseio.com",
+    "project_id": "vcletlrechargevoucher",
+    "storage_bucket": "vcletlrechargevoucher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945073750551:android:e974004a2d031a12",
+        "android_client_info": {
+          "package_name": "com.example.vcl_etlrechargevoucher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945073750551-fv094060etca4r1nolfhghg7c5hq5lva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vcl_etlrechargevoucher",
+            "certificate_hash": "69d01ef450af84aa93a158886d8c5ae28942f6dd"
+          }
+        },
+        {
+          "client_id": "945073750551-6v2vp0u7j0ku19b4v0g15i4qu0jimlj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsp38qihqKEBX9yV5t_MxYWLRQkbxpDIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945073750551-6v2vp0u7j0ku19b4v0g15i4qu0jimlj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
